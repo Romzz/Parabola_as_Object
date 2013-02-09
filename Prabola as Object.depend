@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1360387031 source:c:\users\nida\desktop\fileio\prabola as object\main.cpp
+	<iostream>
+	<cmath>
+	"resistor.h"
+
+1360387699 c:\users\nida\desktop\fileio\prabola as object\resistor.h
+	<string>
+	<math.h>
+
+1360387699 source:c:\users\nida\desktop\fileio\prabola as object\resistor.cpp
+	"Resistor.h"
+	<math.h>
+	<iostream>
+	<cmath>
+
